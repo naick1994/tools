@@ -1,0 +1,20 @@
+[
+    {
+      "name": "ChatGPT",
+      "category": "Chatbot",
+      "description": "Un modello di linguaggio avanzato per conversazioni.",
+      "link": "https://openai.com/chatgpt"
+    },
+    {
+      "name": "DALL·E",
+      "category": "Generazione immagini",
+      "description": "Genera immagini a partire da testo.",
+      "link": "https://openai.com/dall-e"
+    },
+    {
+      "name": "MidJourney",
+      "category": "Generazione immagini",
+      "description": "Strumento per la creazione artistica basata su AI.",
+      "link": "https://www.midjourney.com/"
+    }
+  ]  
